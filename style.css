@@ -22,16 +22,17 @@
 .main_box div 
 {
     font-size: 1.3rem;
-    width: 380px;
-    height: 380px;
+    width: 360px;
+    height: 650px;
     border: 3mm ridge rgba(60, 220, 75, .6);
 }
 
 p
 {
-    padding: 1em;
+    padding: 0.5em;
     margin: 0.5em;
 }
+
 
 .footer
 {
